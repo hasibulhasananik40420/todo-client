@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "name": "Teeth Orthodontics",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+     
+    },
+    {
+      "_id": 2,
+      "name": "Cosmetic Dentistry",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+     
+    },
+    {
+      "_id": 3,
+      "name": "Teeth Cleaning",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+      
+    },
+    {
+      "_id": 4,
+      "name": "Cavity Protection",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+     
+    },
+    {
+      "_id": 5,
+      "name": "Pediatric Dental",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+    
+    },
+    {
+      "_id": 6,
+      "name": "Oral Surgery",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, quidem"
+     
+    }
+  ]
